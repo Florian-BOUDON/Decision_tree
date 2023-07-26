@@ -14,7 +14,7 @@ Le projet est structuré comme suit :
 - Chargement et Exploration des Données
 - Prétraitement des Données : Nous effectuerons des opérations de nettoyage et de prétraitement sur les données
 - Création de l'Arbre de Décision 
-- Comparaison des Performances :  l'accuracy et les matrices de confusion.
+- Comparaison des Performances : accuracy et matrices de confusion
 
 ### Prérequis
 Utilisation de l'environnement:
