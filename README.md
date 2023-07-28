@@ -1,20 +1,20 @@
-# Cours Arbre de décision pour la Classification 
+# Arbre de décision pour la classification 
 
 Ce projet vise à utiliser l'algorithmes d'arbre de décision pour la classification de données financières: differencier des faux billets des vrais.     
 Les méthodes explorées dans ce projet seront  comparées en utilisant la métrique d'accuracy et les matrices de confusion.
 
-## Description du Projet    
+## Description du projet    
 L'objectif est de créer un modèle de classification qui peut prédire si un billet est vrai ou faux à partir de features géométriques.     
 Il s'agit de modèle non-linéaire.
 
-### Contenu du Projet
+### Contenu du projet
 
 Le projet est structuré comme suit :
 
-- Chargement et Exploration des Données
-- Prétraitement des Données : Nous effectuerons des opérations de nettoyage et de prétraitement sur les données
-- Création de l'Arbre de Décision 
-- Comparaison des Performances : accuracy et matrices de confusion
+- Chargement et exploration des données
+- Prétraitement des données : nous effectuerons des opérations de nettoyage et de prétraitement sur les données
+- Création de l'arbre de décision 
+- Comparaison des performances : accuracy et matrices de confusion
 
 ### Prérequis
 Utilisation de l'environnement:
@@ -25,7 +25,7 @@ numpy
 scikit-learn     
 seaborn     
 
-### Structure des Fichiers
+### Structure des fichiers
 
 ├── billet.csv     
 ├── classifier.ipynb      
