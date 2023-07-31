@@ -1,6 +1,6 @@
 # Arbre de décision pour la classification 
 
-Ce projet vise à utiliser l'algorithme d'arbre de décisions pour la classification de données financières: differencier des faux billets des vrais.     
+Ce projet vise à utiliser l'algorithme d'arbre de décision pour la classification de données financières: differencier des faux billets des vrais.     
 Les méthodes explorées dans ce projet seront comparées en utilisant la métrique d'accuracy et les matrices de confusion.
 
 ## Description du projet    
@@ -37,6 +37,6 @@ y compris le chargement des données, la création des modèles et l'évaluation
 Le fichier README.md est le présent document, fournissant une description détaillée du projet.
 
 ### Conclusion
-Ce projet montre comment utiliser l'algorithme d'arbre de decisions pour la classification des billets de banque.     
+Ce projet montre comment utiliser l'algorithme d'arbre de decision pour la classification des billets de banque.     
 En utilisant l'accuracy et les matrices de confusion, nous évaluerons la qualité des prédictions de chaque modèle.       
 La réussite de ce projet nous permettra de choisir le meilleur modèle pour la prédiction. 
